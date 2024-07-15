@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/Style">
+        <file>style.qss</file>
+    </qresource>
+    <qresource prefix="/Assets">
+        <file>default_tile.png</file>
+        <file>export.png</file>
+        <file>load_map_1.png</file>
+        <file>load_map_2.png</file>
+        <file>new.png</file>
+        <file>load_tileset_2.png</file>
+        <file>Resize_2.png</file>
+        <file>Save_3.png</file>
+        <file>icon.png</file>
+    </qresource>
+</RCC>
