@@ -24,7 +24,7 @@ This project is a Tilemap editor software where you can draw map for game using 
 In the app you can create/load and save your map in TMAP ( custom ) format or txt, you can also export the map you're drawing as ``PNG`` !
 
 ## Features
-1 - ``Create/Load`` and ``Save`` MAP in TMAP format or TXT
+1 - ``Create/Load`` and ``Save`` MAP in TMAP format or TXT.
 
 2 - ``Draw`` a map using a Tileset on ``3 different layers``
 
